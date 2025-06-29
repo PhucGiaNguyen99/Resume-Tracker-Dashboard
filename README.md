@@ -1,17 +1,3 @@
-<<<<<<< HEAD
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
 # Job Tracker Dashboard
 
 The Job Tracker Dashboard is a single-page web application built with React that allows users to track and manage job applications efficiently. It supports authentication, real-time data storage with Firebase, and provides a responsive, modern user interface styled with Tailwind CSS. This project demonstrates practical use of state management, API integration, modular components, and dashboard visualizations.
@@ -95,4 +81,3 @@ Pull requests are welcome. For significant changes, please open an issue first t
 
 ### License
 This project is licensed under Phuc Nguyen.
->>>>>>> acf5f0c9123996ac9889f36cb37ffd9e4637f334
